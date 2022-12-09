@@ -32,19 +32,16 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Pisa
+    url: https://www.unipi.it/index.php/english
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master's degree in Data Science and Business Informatics
+      institution: University of Pisa
+      year: ""
+    - course: Bachelor's degree in Informatics for Humanities
+      institution: University of Pisa
+      year: 2022
 superuser: true
 status:
   icon: ☕️
